@@ -11,4 +11,5 @@
     <li>Lyon</li>
     <li>Barcelone</li>
     <li>Budapest</li>
+    <li>Berlin</li>
 </ul>
