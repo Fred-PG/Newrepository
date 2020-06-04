@@ -9,4 +9,6 @@
     <li>Athenes</li>
     <li>Amsterdam</li>
     <li>Lyon</li>
+    <li>Barcelone</li>
+    <li>Budapest</li>
 </ul>
