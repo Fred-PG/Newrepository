@@ -8,4 +8,5 @@
     <li>Stoklholme/li>
     <li>Athenes</li>
     <li>Amsterdam</li>
+    <li>Lyon</li>
 </ul>
