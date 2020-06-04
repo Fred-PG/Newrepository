@@ -1,3 +1,8 @@
 <ul>
     <li>Paris</li>
+    <li>Romes</li>
+    <li>Madrid</li>
+    <li>Lisbonne</li>
+    <li>Dublin</li>
+    <li>Florence</li>	
 </ul>
